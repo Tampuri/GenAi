@@ -40,67 +40,73 @@ Each module has its own subdirectory containing code examples and instructions f
 
 ### AWS Instructor-Led Lab
 
-# Follow the instructions given by the workshop administrators on how to log in to the AWS account provided for this workshop. Do NOT use your personal or business account to run this workshop, as the required pre-built resources will not be available.
+Follow the instructions given by the workshop administrators on how to log in to the AWS account provided for this workshop. Do NOT use your personal or business account to run this workshop, as the required pre-built resources will not be available.
 
 ## Event Engine AWS Account access
 
 Go to: https://dashboard.eventengine.run/login . You will be redirected to the page below.
+<br>
 
 <div style="text-align:center">
     <img src="./img/image43.png" alt="Login" width="600" style="display:inline-block">
 </div>
-
+<br>
 Enter the event hash you have received from your instructor.
-
+<br>
 <div style="text-align:center">
     <img src="./img/image44.png" alt="Login" width="600" style="display:inline-block">
 </div>
+<br>
 Click on Email One-Time Password (OTP).
-
+<br>
 <div style="text-align:center">
     <img src="./img/image45.png" alt="Login" width="600" style="display:inline-block">
 </div>
+<br>
 You are redirected to the following page:
+<br>
 <div style="text-align:center">
     <img src="./img/image46.png" alt="Login" width="600" style="display:inline-block">
 </div>
+<br>
 Enter your email address and click on Send passcode.
-
+<br>
 
 <div style="text-align:center">
     <img src="./img/image46.png" alt="Login" width="600" style="display:inline-block">
 </div>
+<br>
 You are redirected to the following page:
-
-
+<br>
 <div style="text-align:center">
     <img src="./img/image47.png" alt="Login" width="600" style="display:inline-block">
 </div>
-
+<br>
 Check your mailbox, copy-paste the one-time password and click on Sign in.
-
+<br>
 <div style="text-align:center">
     <img src="./img/image48.png" alt="Login" width="600" style="display:inline-block">
 </div>
-
+<br>
 You are redirected to the Team Dashboard. Click on AWS Console.
-
-
-<div style="text-align:center">
-    <img src="./img/image48.png" alt="Login" width="600" style="display:inline-block">
-</div>
-
-On the next screen, click on Open AWS Console.
-
+<br>
 
 <div style="text-align:center">
     <img src="./img/image49.png" alt="Login" width="600" style="display:inline-block">
 </div>
-You are then redirected to the AWS Console.
-
+<br>
+On the next screen, click on Open "AWS Console" button on the top right of the screen.
+<br>
 
 <div style="text-align:center">
     <img src="./img/image50.png" alt="Login" width="600" style="display:inline-block">
+</div>
+<br>
+You are then redirected to the AWS Console.
+<br>
+
+<div style="text-align:center">
+    <img src="./img/image51.png" alt="Login" width="600" style="display:inline-block">
 </div>
 
 ### Amazon SageMaker Studio access
@@ -113,26 +119,26 @@ Open AWS console and switch to AWS region communicated by your instructor.
 
 
 <div style="text-align:center">
-    <img src="./img/image51.png" alt="Login" width="600" style="display:inline-block">
+    <img src="./img/image30.png" alt="Login" width="600" style="display:inline-block">
 </div>
 Under services search for Amazon SageMaker.
 
 <div style="text-align:center">
-    <img src="./img/image30.png" alt="Login" width="600" style="display:inline-block">
+    <img src="./img/image31.png" alt="Login" width="600" style="display:inline-block">
 </div>
 Under Domains, click on the domain name.
 
 <div style="text-align:center">
-    <img src="./img/image31.png" alt="Login" width="600" style="display:inline-block">
+    <img src="./img/image32.png" alt="Login" width="600" style="display:inline-block">
 </div>
 A SageMaker Studio environment should already be provisioned. Click on Launch (on the right side of the preprovisioned sagemakeruser username).
 <div style="text-align:center">
-    <img src="./img/image32.png" alt="Login" width="600" style="display:inline-block">
+    <img src="./img/image33.png" alt="Login" width="600" style="display:inline-block">
 </div>
 The page can take 1 or 2 minutes to load when you access SageMaker Studio for the first time.
 
 <div style="text-align:center">
-    <img src="./img/image33.png" alt="Login" width="600" style="display:inline-block">
+    <img src="./img/image34.png" alt="Login" width="600" style="display:inline-block">
 </div>
 You will be redirected to a new web tab that looks like this:
 
