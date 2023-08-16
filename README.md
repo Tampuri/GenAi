@@ -38,6 +38,109 @@ Overall, this module provides an excellent opportunity to explore the capabiliti
 ### Usage
 Each module has its own subdirectory containing code examples and instructions for use. Simply navigate to the module you are interested in and follow the instructions in the README file.
 
+### AWS Instructor-Led Lab
+
+# Follow the instructions given by the workshop administrators on how to log in to the AWS account provided for this workshop. Do NOT use your personal or business account to run this workshop, as the required pre-built resources will not be available.
+
+## Event Engine AWS Account access
+
+Go to: https://dashboard.eventengine.run/login . You will be redirected to the page below.
+
+<div style="text-align:center">
+    <img src="./img/image43.png" alt="Login" width="600" style="display:inline-block">
+</div>
+
+Enter the event hash you have received from your instructor.
+
+<div style="text-align:center">
+    <img src="./img/image44.png" alt="Login" width="600" style="display:inline-block">
+</div>
+Click on Email One-Time Password (OTP).
+
+<div style="text-align:center">
+    <img src="./img/image45.png" alt="Login" width="600" style="display:inline-block">
+</div>
+You are redirected to the following page:
+<div style="text-align:center">
+    <img src="./img/image46.png" alt="Login" width="600" style="display:inline-block">
+</div>
+Enter your email address and click on Send passcode.
+
+
+<div style="text-align:center">
+    <img src="./img/image46.png" alt="Login" width="600" style="display:inline-block">
+</div>
+You are redirected to the following page:
+
+
+<div style="text-align:center">
+    <img src="./img/image47.png" alt="Login" width="600" style="display:inline-block">
+</div>
+
+Check your mailbox, copy-paste the one-time password and click on Sign in.
+
+<div style="text-align:center">
+    <img src="./img/image48.png" alt="Login" width="600" style="display:inline-block">
+</div>
+
+You are redirected to the Team Dashboard. Click on AWS Console.
+
+
+<div style="text-align:center">
+    <img src="./img/image48.png" alt="Login" width="600" style="display:inline-block">
+</div>
+
+On the next screen, click on Open AWS Console.
+
+
+<div style="text-align:center">
+    <img src="./img/image49.png" alt="Login" width="600" style="display:inline-block">
+</div>
+You are then redirected to the AWS Console.
+
+
+<div style="text-align:center">
+    <img src="./img/image50.png" alt="Login" width="600" style="display:inline-block">
+</div>
+
+### Amazon SageMaker Studio access
+
+Amazon SageMaker Studio is a web-based, integrated development environment (IDE) for machine learning that lets you build, train, debug, deploy, and monitor your machine learning models. Studio provides all the tools you need to take your models from experimentation to production while boosting your productivity.
+
+If the AWS Account has been provisioned by your AWS Instructor, follow the next steps to access the SageMaker Studio environment:
+
+Open AWS console and switch to AWS region communicated by your instructor.
+
+
+<div style="text-align:center">
+    <img src="./img/image51.png" alt="Login" width="600" style="display:inline-block">
+</div>
+Under services search for Amazon SageMaker.
+
+<div style="text-align:center">
+    <img src="./img/image30.png" alt="Login" width="600" style="display:inline-block">
+</div>
+Under Domains, click on the domain name.
+
+<div style="text-align:center">
+    <img src="./img/image31.png" alt="Login" width="600" style="display:inline-block">
+</div>
+A SageMaker Studio environment should already be provisioned. Click on Launch (on the right side of the preprovisioned sagemakeruser username).
+<div style="text-align:center">
+    <img src="./img/image32.png" alt="Login" width="600" style="display:inline-block">
+</div>
+The page can take 1 or 2 minutes to load when you access SageMaker Studio for the first time.
+
+<div style="text-align:center">
+    <img src="./img/image33.png" alt="Login" width="600" style="display:inline-block">
+</div>
+You will be redirected to a new web tab that looks like this:
+
+Click on Open Launcher, and then make sure that the Data Science SageMaker image is selected and click on Create Notebook
+
+
+
+
 ### Amazon Internal Reference
 This workshop uses :
 Workshop ID : 80ae1ed2-f415-4d3d-9eb0-e9118c147bd4 
