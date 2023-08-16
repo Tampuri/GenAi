@@ -62,9 +62,6 @@ You are redirected to the Event Dashboard. Click on "Open AWS Console".
 You are then redirected to the AWS Console.
 <br>
 
-<div style="text-align:center">
-    <img src="./img/image51.png" alt="Login" width="600" style="display:inline-block">
-</div>
 
 ### Amazon SageMaker Studio access
 
