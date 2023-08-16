@@ -73,33 +73,33 @@ Enter your email address and click on Send passcode.
 <br>
 
 <div style="text-align:center">
-    <img src="./img/image46.png" alt="Login" width="600" style="display:inline-block">
+    <img src="./img/image47.png" alt="Login" width="600" style="display:inline-block">
 </div>
 <br>
 You are redirected to the following page:
 <br>
 <div style="text-align:center">
-    <img src="./img/image47.png" alt="Login" width="600" style="display:inline-block">
+    <img src="./img/image48.png" alt="Login" width="600" style="display:inline-block">
 </div>
 <br>
 Check your mailbox, copy-paste the one-time password and click on Sign in.
 <br>
 <div style="text-align:center">
-    <img src="./img/image48.png" alt="Login" width="600" style="display:inline-block">
+    <img src="./img/image49.png" alt="Login" width="600" style="display:inline-block">
 </div>
 <br>
 You are redirected to the Team Dashboard. Click on AWS Console.
 <br>
 
 <div style="text-align:center">
-    <img src="./img/image49.png" alt="Login" width="600" style="display:inline-block">
+    <img src="./img/image50.png" alt="Login" width="600" style="display:inline-block">
 </div>
 <br>
 On the next screen, click on Open "AWS Console" button on the top right of the screen.
 <br>
 
 <div style="text-align:center">
-    <img src="./img/image50.png" alt="Login" width="600" style="display:inline-block">
+    <img src="./img/image51.png" alt="Login" width="600" style="display:inline-block">
 </div>
 <br>
 You are then redirected to the AWS Console.
